@@ -1,0 +1,8 @@
+USER Anonymous
+PASS
+CWD src
+PWD
+CDUP
+PWD
+CDUP
+PWD

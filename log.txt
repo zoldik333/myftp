@@ -1,0 +1,17 @@
+total 212
+-rw-r--r-- 1 zoldik333 zoldik333    194 23 févr. 15:00 Codes.txt
+-rw-r--r-- 1 root      root           0  5 mars  11:43 coding-style-reports.log
+drwxr-xr-x 2 zoldik333 zoldik333   4096  5 mars  11:02 commands_testing
+-rw-r--r-- 1 zoldik333 zoldik333    260  5 mars  11:45 dump.txt
+-rw-r--r-- 1 zoldik333 zoldik333    341  5 mars  15:01 follow-up.txt
+drwxr-xr-x 2 zoldik333 zoldik333   4096  5 mars  10:46 includes
+-rw-r--r-- 1 zoldik333 zoldik333 105812 22 févr. 21:09 Kick-off - myFTP.pdf
+-rw-r--r-- 1 zoldik333 zoldik333      0  5 mars  15:04 log.txt
+-rw-r--r-- 1 zoldik333 zoldik333   3140  1 mars  14:04 main.py
+-rw-r--r-- 1 zoldik333 zoldik333   1723 27 févr. 11:47 Makefile
+-rwxr-xr-x 1 zoldik333 zoldik333  53248  5 mars  14:49 myftp
+drwxr-xr-x 2 zoldik333 zoldik333   4096  5 mars  14:49 src
+-rw-r--r-- 1 zoldik333 zoldik333  10281  4 mars  14:55 tester.py
+-rwxr-xr-x 1 zoldik333 zoldik333   2040 22 févr. 21:05 test_ftp.sh
+drwxr-xr-x 2 zoldik333 zoldik333   4096  5 mars  11:43 tests
+-rw-r--r-- 1 zoldik333 zoldik333   4096  5 mars  11:09 test.txt

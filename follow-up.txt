@@ -1,0 +1,23 @@
+FOLLOW-UP :
+
+Error management :
+- path not valid
+
+Working directory :
+- 550 au lieu de 501 sur CWD
+
+
+Directory Listing:
+LIST quand pas de PASV ou PORT --> 42x
+
+Downloading file:
+créé le fichier et écrire dedans
+PASV
+LIST
+change directory
+PASV
+RETR test.txt
+--> pas de fichier
+
+Uploading file:
+pareil crée le fichier

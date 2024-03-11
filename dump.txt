@@ -1,0 +1,7 @@
+220
+331 User name okay, need password.
+230 User logged in, proceed.
+200 Command okay.
+150 File status okay, about to open data connection.
+226 Closing data connection.
+221 Service closing control connection.

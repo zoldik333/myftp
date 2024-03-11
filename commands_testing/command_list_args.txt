@@ -1,0 +1,7 @@
+USER Anonymous
+PASS
+PASV
+LIST src
+PASV
+LIST no_directory
+QUIT

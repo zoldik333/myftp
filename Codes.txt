@@ -1,0 +1,8 @@
+220 Service ready for new user.
+230 User logged in, proceed.
+331 User name okay, need password.
+332 Need account for login.
+500 Syntax error.
+530 Not logged in.
+
+430 Invalid username or password

@@ -1,0 +1,5 @@
+USER Anonymous
+PASS
+CWD src
+CDUP
+DELE ../test.delete
